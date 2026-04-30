@@ -172,9 +172,17 @@ Proyek ini dilisensikan di bawah **MIT License** — lihat file [LICENSE](LICENS
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**salsabilaoktaria-pixel**
-- GitHub: [@salsabilaoktaria-pixel](https://github.com/salsabilaoktaria-pixel)
+**Kelompok 5 — Manajemen Informatika**
+
+| Nama | GitHub |
+|---|---|
+| Salsabila Oktaria | [@salsabilaoktaria-pixel](https://github.com/salsabilaoktaria-pixel) |
+| Meisya Afriya Tasa | [@Meimei1557](https://github.com/Meimei1557) |
+| Maria Opa | [@opamaria](https://github.com/opamaria) |
+| Maya Agustina Manurung | [@Maya11-cyber](https://github.com/Maya11-cyber) |
+| Yesa Septiawan | [@Yesa-30](https://github.com/Yesa-30) |
+| Ghaly Ibrahim | [@rusunblok51-code](https://github.com/rusunblok51-code) |
 
 ---
